@@ -1,16 +1,13 @@
-# esof_2
+# Flutter Tutorial Repository (2022/2023)
 
-A new Flutter project.
+This is a new Flutter project that should help you get into Flutter and Dart development by going through some basics, including:
+* Text Input;
+* Buttons;
+* Triggered Actions (by buttons);
+* Simple Alert Dialog;
+* Floating Button;
+* Customization (for text and buttons);
+* Multiple screens and navigating through them;
+* Passing of arguments between screens;
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
